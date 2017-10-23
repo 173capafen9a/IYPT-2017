@@ -9,8 +9,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  Suda Mum
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
-
+İlk öncelikle bizim yapacağımız projenin adı suda mum. Projemizin asıl amacı yağ ve plastik yardımıyla suyun üstünde yüzen bir mum yapabilmek ve nasıl yanarken yüzebildiğini açıklayabilmek. Biz bunu yaparken yaptığımız deneylerdeki parametreleri değiştirerek suyun üstündeki yanan mumu daha uzun süre yanmasını sağlayacağız. Bizim deneyimizde mumun yanması mumun cinsine ve yağın miktarına bağlıdır. Bu yüzden deney grubumuzda bu parametreleri değiştirerek mumun daha uzun süre yanmasını sağlamak istiyoruz. 
 ## Kaynakçalar  
 Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 

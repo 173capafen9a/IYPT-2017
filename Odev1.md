@@ -4,8 +4,8 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-A   | Muhammed Furkan Soysal | 647
+9-A   |Hamit Karataş | 581
 
 #  (buraya proje başlığını yazınız)
 ## Özet

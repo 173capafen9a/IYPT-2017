@@ -3,10 +3,12 @@
 Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
 
 Sınıf | Öğrenci İsmi  | Numara
-------------------------------
+---
 9-A   |Tayip Çelik    |516
-9-A   | Muhammed Furkan Soysal | 647
-9-A   |Hamit Karataş | 581
+---
+9-A  | Muhammed Furkan Soysal | 647
+----
+9-A   |Hamit Karataş | 581
 
 #  Suda Mum
 ## Özet

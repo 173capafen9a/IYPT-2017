@@ -13,6 +13,7 @@ Sınıf | Öğrenci İsmi  | Numara
 İlk öncelikle bizim yapacağımız projenin adı suda mum. Projemizin asıl amacı yağ ve plastik yardımıyla suyun üstünde yüzen bir mum yapabilmek ve nasıl yanarken yüzebildiğini açıklayabilmek. Biz bunu yaparken yaptığımız deneylerdeki parametreleri değiştirerek suyun üstündeki yanan mumu daha uzun süre yanmasını sağlayacağız. Bizim deneyimizde mumun yanması mumun cinsine ve yağın miktarına bağlıdır. Bu yüzden deney grubumuzda bu parametreleri değiştirerek mumun daha uzun süre yanmasını sağlamak istiyoruz. 
 ## Kaynakçalar  
 Aşağıda kaynakçalara yer verilecektir.
+
 https://www.ipuclarim.com/suda-yanan-mum-nasil-hazirlanir/
 http://www.piramithaber.com/m/suyun-icinde-yanan-mum-nasil-yapilir-video,315.html
  
